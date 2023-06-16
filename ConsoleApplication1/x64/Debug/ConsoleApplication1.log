@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Иван\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(124,11): warning C4101: task: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Иван\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
